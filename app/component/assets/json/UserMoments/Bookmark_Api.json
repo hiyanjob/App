@@ -1,0 +1,11 @@
+{
+    "addBookmarks":{
+        "_id": "",
+        "userId": "",
+        "postType": "moment"
+    },
+    "BookmarkView":{
+        "_id":"",
+        "posttype": "Moment"
+    }
+}

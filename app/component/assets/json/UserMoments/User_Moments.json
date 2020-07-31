@@ -1,0 +1,75 @@
+{
+    
+    
+    "GetBucketList":{
+        "_id": "",
+        "posttype": "moment"
+    },
+    
+    
+    "DeleteMoment":{
+        "_id": ""
+    },
+
+    "dashboardUser":{
+        "_id": ""
+    },
+
+    "EditMomentList":{
+      "img":"",
+     "_id":"",
+      "tags":"",
+     "location":"",
+     "postedDate":"",
+     "postContent":"",
+     "bucketprivacy":""
+      
+    },
+
+    "LikeBucketList": {
+        "_id": "",
+        "userid": "",
+        "posttype": "moment"
+    },
+    "LikeView": {
+        "_id": "",
+        "posttype": "moment"
+    },
+    "UserLikeMoment":{
+        "postId": "",
+        "userId": "",
+        "type": "",
+        "posttype":""
+
+    },
+    "CommentsBucketList": {
+        "_id": "",
+        "userid": "",
+        "comments": "",
+        "posttype": "moment",
+        "time":""
+    },
+    "CommentView": {
+        "_id": "",
+        "posttype": "moment"
+    },
+    "DeleteComments":{
+        "_id": "",
+        "status": "Delete"
+    },
+
+    "BookmarkView":{
+        "_id":"",
+        "posttype": "Moment"
+    },
+    "addBookmarks":{
+        "_id": "",
+        "userId":"",
+        "postType": "moment"
+    },
+    "ShareView":{
+        "_id": "",
+        "posttype": "moment"
+    }
+    
+}

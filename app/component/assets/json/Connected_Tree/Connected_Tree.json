@@ -1,0 +1,29 @@
+{
+    "AddMembersInTree":{
+        "userId" : "",
+        "email":"",
+        "mobile" : "",
+        "relationship" : "",
+        "treeId" : "",
+        "gender" : "",
+        "location" : "",
+        "livingStatus" : "",
+        "lastEducation" : "",
+        "maritalStatus" :"",
+        "treePrivacy" : ""
+    },
+    "GetFamilyDetails":{
+        "userId" : "5d16018dde91402a88f57653"
+    },
+    "SendInvitation":{
+        "userId" : "",
+        "treeId":""
+    },
+    "TreeInvitations":{
+        "userId" : ""
+    },
+    "RemoveFamilyMembers":{
+        "treeId" : "",
+        "userId" : ""
+    }
+}

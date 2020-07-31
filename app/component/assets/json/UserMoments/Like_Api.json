@@ -1,0 +1,11 @@
+{
+    "LikeBucketList": {
+        "_id": "",
+        "userid": "",
+        "posttype": "moment"
+    },
+    "LikeView": {
+        "_id": "",
+        "posttype": "moment"
+    }
+}

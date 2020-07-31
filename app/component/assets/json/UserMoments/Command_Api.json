@@ -1,0 +1,45 @@
+{
+    "CommentsBucketList": {
+        "_id": "",
+        "userid": "",
+        "comments": "",
+        "posttype": "moment"
+    },
+    "CommentView": {
+        "_id": "",
+        "posttype": "moment"
+    },
+    "DeleteComments":{
+        "_id": "",
+        "status": "Delete"
+    },"LikeBucketList": {
+        "_id": "",
+        "userid": "",
+        "posttype": "bucket"
+    },
+    "addBookmarks": {
+        "userId": "",
+        "_id": "",
+        "postType": "bucket"
+    },
+    "GetBucketList": {
+        "posttype": "moment",
+        "_id": ""
+    },
+    "Bookmark":{
+        "userId": "",
+        "_id": "",
+        "postType":""
+    },
+    "LikeView":{
+        "_id":"",
+        "posttype":""
+    },
+    "BookmarkView":{
+            "_id":"",
+            "posttype":""
+        
+    }
+   
+   
+}
